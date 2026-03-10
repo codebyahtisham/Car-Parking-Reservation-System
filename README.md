@@ -160,8 +160,8 @@ Removes parking record by car number from the database.
 
 | Name              | Role & Contribution                                      |
 |-------------------|----------------------------------------------------------|
-| Muhammad Ramzan   | Complete project development (all classes except Details) |
-| Ahtisham Saleem   | Details class implementation & presentation slides        |
+| Ahtisham Saleem | Complete project development (all classes except Details) |
+| Muhammad Ramzan   | Details class implementation & presentation slides        |
 
 ---
 
