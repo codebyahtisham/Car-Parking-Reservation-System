@@ -124,7 +124,7 @@ The system is designed around **5 classes** connected through different OOP rela
 
 | Document               | Link                                |
 |------------------------|-------------------------------------|
-| 📘 Full Report (PDF)   | [View Report](./Report.pdf)         |
+| 📘 Full Report (PDF)   | [View Report](.[/Report.pdf](https://github.com/codebyahtisham/Car-Parking-Reservation-System/blob/7ec1b6f10175b3ca3bbe6c2b6bd95be788119fe5/Car%20Parking%20System%20_CP_Report.pdf))         |
 | 📊 Presentation Slides | [View Slides](./Slides.pdf)         |
 
 ---
